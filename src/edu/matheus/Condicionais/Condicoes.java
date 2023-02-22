@@ -15,21 +15,4 @@ public class Condicoes {
             System.out.println("menor de idade");
         }
     }
-    public void FaseVida(String fase){
-        switch (fase) {
-            case ("Crianca"):
-                System.out.println("Crianca");
-                break;
-            case "Adolecencia":
-                System.out.println("Adolecencia");
-                break;
-            case "adulto":
-                System.out.println("adulto");
-                break;
-            case "velhice":
-                System.out.println("Voce tem mais de 65 anos    ");
-                break;
-
-        }
-    }
 }
